@@ -12,6 +12,7 @@ header {
 }
 
 .titulo-principal {
+    color:#ffffff;
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
@@ -144,6 +145,7 @@ main {
 
 .itens {
     line-height: 1.5;
+    color:#ffffff;
 }
 
 .itens:first-child {
@@ -201,7 +203,7 @@ footer {
 }
 
 .copyright {
-    color: #000000;
+    color: #ffffff;
     font-size: 13px;
     margin: 20px 0 0;
 }
@@ -229,13 +231,13 @@ table {
 }
 
 thead {
-    background: #555555;
+    background: #f8f8f8;
     color: white;
     font-weight: bold;
 }
 
 td, th {
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     padding: 8px 15px;
 }
 
