@@ -163,7 +163,7 @@ main {
     box-shadow: 10px 10px 10px 0 #ffffff;
 }
 
-.imagem-beneficios:hover {
+.imagem-beneficios:hover { img/beneficios.jpg
     opacity: 0.3;
 }
 
