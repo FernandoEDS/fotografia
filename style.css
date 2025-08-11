@@ -168,7 +168,13 @@ main {
 }
 
 .foto_1 {
-    width: 50px;
+    width: 100px;
+}
+.foto_2 {
+    width: 100px;
+}
+.foto_3 {
+    width: 100px;
 }
 
 form {
