@@ -167,6 +167,10 @@ main {
     opacity: 0.3;
 }
 
+.foto_1 {
+    width: 50px;
+}
+
 form {
     margin: 40px 0;
 }
