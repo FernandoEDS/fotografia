@@ -160,11 +160,11 @@ main {
     width: 80%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 10px 10px 10px 0 #ffffff;
+    box-shadow: 10px 10px 10px 0 #050505;
 }
 
 .beneficios {
-    width: 20%;
+    width: 80%;
 }
 
 .foto_1 {
