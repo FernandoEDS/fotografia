@@ -130,6 +130,7 @@ main {
 .beneficios {
     padding: 3em 0;
     background: #000000;
+    w
 }
 
 .conteudo-beneficios {
@@ -164,7 +165,7 @@ main {
 }
 
 .beneficios {
-    width: 200px;
+    width: 100%;
 }
 
 .foto_1 {
