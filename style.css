@@ -157,7 +157,7 @@ main {
 }
 
 .imagem-beneficios {
-    width: 60%;
+    width: 80%;
     opacity: 1;
     transition: 400ms;
     box-shadow: 10px 10px 10px 0 #ffffff;
@@ -175,6 +175,9 @@ main {
 }
 .foto_3 {
     width: 100px;
+}
+.foto_3 {
+    width: 150px;
 }
 
 form {
