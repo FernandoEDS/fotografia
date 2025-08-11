@@ -160,7 +160,7 @@ main {
     width: 100%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 10px 10px 10px 0 #050505;
+    box-shadow: 10px 10px 10px #050505;
 }
 
 .beneficios {
