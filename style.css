@@ -156,7 +156,7 @@ main {
     content: "✔️";
 }
 
-.imagem-beneficios {
+.beneficios {
     width: 200px;
     opacity: 1;
     transition: 400ms;
