@@ -157,14 +157,14 @@ main {
 }
 
 .beneficios {
-    width: 200px;
+    width: 80%;
     opacity: 1;
     transition: 400ms;
     box-shadow: 10px 10px 10px 0 #ffffff;
 }
 
-.imagem-beneficios:hover { img/beneficios.jpg
-    opacity: 0.3;
+.beneficios {
+    width: 20%;
 }
 
 .foto_1 {
