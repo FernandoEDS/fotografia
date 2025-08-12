@@ -5,7 +5,7 @@ body {}
 }
 
 .principal {
-	background: #000000;
+	background: #000000ff;
 	padding: 30px;
 }
 
@@ -53,12 +53,12 @@ em strong {
 	margin-right: 15%;
 }
 
-.imagembeneficios { img/beneficios.jpg
+.imagembeneficios {
 	width: 50%;
 }
 
 header {
-	background: #000000;
+	background: #000000ff;
 	padding: 20px 0;
 }
 
@@ -79,7 +79,7 @@ nav li {
 
 nav a {
 	text-transform: uppercase;
-	color: #BBBBBB;
+	color: #ccccccff;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
