@@ -165,6 +165,7 @@ main {
 
 .imagem-beneficios {
     width: 50%;
+    display: inline;
 }
 
 .foto_1 {
