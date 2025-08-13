@@ -157,7 +157,7 @@ main {
 }
 
 .beneficios {
-    width: 80%;
+    width: 100%;
     opacity: 1;
     transition: 400ms;
     box-shadow: 10px 10px 10px #050505;
