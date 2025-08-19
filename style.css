@@ -31,7 +31,9 @@ header {
     background: #FEFEFE;
     width: 940px;
     margin: 0 auto;
-    position:calc(200)
+}
+.meio-site {
+    margin: 0 0 20px 0;
 }
 
 .principal p {
