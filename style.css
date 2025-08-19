@@ -31,6 +31,7 @@ header {
     background: #FEFEFE;
     width: 940px;
     margin: 0 auto;
+    position:calc(200)
 }
 
 .principal p {
