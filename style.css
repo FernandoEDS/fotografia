@@ -17,6 +17,18 @@ header {
 .banner {
     width: 100%;
 }
+<<<<<<< HEAD
+
+.titulo-principal {
+    color:#ffffff;
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+=======
+>>>>>>> 3176610772995512930919798f925fd7537e7c3b
 .principal {
     padding: 3em 0;
     background: #FEFEFE;
