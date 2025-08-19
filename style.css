@@ -17,15 +17,6 @@ header {
 .banner {
     width: 100%;
 }
-
-.titulo-principal {
-    color:#ffffff;
-    text-align: center;
-    font-size: 2em;
-    margin: 0 0 1em;
-    clear: left;
-}
-
 .principal {
     padding: 3em 0;
     background: #FEFEFE;
@@ -33,7 +24,7 @@ header {
     margin: 0 auto;
 }
 .meio-site {
-    margin: 0 0 20px 0;
+    margin: 70px 50px 70px 70px;
 }
 
 .principal p {
