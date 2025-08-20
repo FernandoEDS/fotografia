@@ -5,6 +5,8 @@
     --cor-azul: #006ecf;
     --cor-bramca: #fff6ff;
     --cor-roxa: #4e2096;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -130,9 +132,6 @@ nav a:hover {
     margin-top: 10px;
 }
 
-main {
-    
-}
 
 .beneficios {
     padding: 0em 0;
@@ -168,24 +167,16 @@ main {
     opacity: 1;
     transition: 400ms;
     box-shadow: 10px 10px 10px var(--cor-preto);
-
+}
 .imagem-beneficios {
     width: 50%;
     display: inline;
 }
 
-.foto_1 {
+.foto {
     width: 100px;
 }
-.foto_2 {
-    width: 100px;
-}
-.foto_3 {
-    width: 100px;
-}
-.foto_3 {
-    width: 150px;
-}
+
 
 .form-center {
     max-width: 600px;
@@ -196,7 +187,7 @@ main {
 
 .form-center label,
 .form-center legend {
-    display: inline-block;
+    display: block;
     font-size: 16px;
     margin: 0 0 10px;
 }
@@ -326,4 +317,5 @@ img ~ p {
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
     }
+
 }
