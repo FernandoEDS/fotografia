@@ -167,7 +167,7 @@ main {
     width: 100%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 10px 10px 10px var(--cor-principal);
+    box-shadow: 10px 10px 10px var(--cor-preto);
 
 .imagem-beneficios {
     width: 50%;
@@ -226,7 +226,7 @@ footer {
 }
 
 .copyright {
-    color: #ffffff;
+    color: var(--cor-principal);
     font-size: 13px;
     margin: 20px 0 0;
 }
