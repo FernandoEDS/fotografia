@@ -47,6 +47,10 @@ em strong {
 	background: #FFFFFF;
 	padding: 20px;
 }
+.titulo-beneficios {
+    padding-left: 20px;
+	color: white;
+}
 
 .beneficios ul {
 	display: inline-block;
@@ -57,6 +61,9 @@ em strong {
 
 .imagembeneficios {
 	width: 50%;
+}
+.titulo-estabelecimento {
+    padding-left: 20px;
 }
 
 header {
