@@ -189,18 +189,21 @@ main {
     width: 150px;
 }
 
-form {
-    margin: 40px 0;
+.form-center {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    width: 100%;
 }
 
-form label,
-form legend {
+.form-center label,
+.form-center legend {
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
 }
 
-form input {
+.form-center input {
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
