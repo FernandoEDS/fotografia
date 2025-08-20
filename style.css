@@ -246,13 +246,13 @@ table {
 }
 
 thead {
-    background: #f8f8f8;
-    color: white;
+    background: #d4d4d4;
+    color: rgb(0, 0, 0);
     font-weight: bold;
 }
 
 td, th {
-    border: 1px solid #ffffff;
+    border: 1px solid #000000;
     padding: 8px 15px;
 }
 
