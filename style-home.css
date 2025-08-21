@@ -50,6 +50,7 @@ em strong {
 .titulo-beneficios {
     padding-left: 20px;
 	color: white;
+	margin: 0 0 0 0;
 }
 
 .beneficios ul {
@@ -64,6 +65,7 @@ em strong {
 }
 .titulo-estabelecimento {
     padding-left: 20px;
+	margin: 0 0 0 0;
 }
 
 header {
