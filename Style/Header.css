@@ -12,9 +12,61 @@ header {
     padding: 20px 0;
 }
 
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex
+;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex
+;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 35px;
+}
+.titulo-principal {
+    padding-left: 20px;
+    height: 15vw;
+}
+
 .fundo-site {
 	margin: 0;
 	background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('img/fundo-site.jpg');
 	background-size: cover;
 	background-position: center;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: var(--cor-azul);
+    text-decoration: underline;
 }
