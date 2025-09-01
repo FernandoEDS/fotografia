@@ -1,0 +1,20 @@
+:root {
+    --cor-principal: #000000;
+    --cor-vermelho: #a10000;
+    --cor-preto: #000000;
+    --cor-azul: #006ecf;
+    --cor-bramca: #fff6ff;
+    --cor-roxa: #7d6df7;
+}
+
+header {
+    background: #000000;
+    padding: 20px 0;
+}
+
+.fundo-site {
+	margin: 0;
+	background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('img/fundo-site.jpg');
+	background-size: cover;
+	background-position: center;
+}
