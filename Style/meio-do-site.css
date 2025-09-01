@@ -1,0 +1,36 @@
+p {
+    text-align: center;
+}
+
+.principal {
+    padding: 3em 0;
+    background: var(--cor-bramca);
+    width: 940px;
+    margin: 0 auto;
+}
+
+.principal p {
+    margin: 0 0 1em;
+}
+
+.principal strong {
+    font-weight: bold;
+}
+
+.principal em {
+    font-style: italic;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+.meio-site {
+    margin: -40px 50px 300px 70px;
+}
+
+.utensilios {
+    width: calc(40% - 26px);
+    float: left;
+    margin: 0 20px 20px 0;
+}
