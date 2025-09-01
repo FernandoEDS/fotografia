@@ -320,3 +320,15 @@ img ~ p {
     }
 
 }
+
+/* configuração para tabletes (telas médias)*/
+
+@media screen and (max-width: 480px ){ 
+    
+}
+
+/* configuração para tabletes (telas maiores)*/
+
+@media screen and (max-width: 1080px ){ 
+    
+}
