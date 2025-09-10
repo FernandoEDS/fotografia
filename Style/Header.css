@@ -16,21 +16,14 @@ header {
     position: relative;
     width: 940px;
     margin: 0 auto;
-}
-.caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
     padding: 0 20px;
-    display: flex
-;
+    display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .logo {
-    display: flex
-;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 35px;
@@ -69,4 +62,24 @@ nav a {
 nav a:hover {
     color: var(--cor-azul);
     text-decoration: underline;
+}
+
+/* Estilização para Tablets (telas médias)    */
+@media screen and (min-width: 480px) {
+    #nome_empresa {
+        display: flex;
+    }    
+}
+
+@media screen and (min-width: 645px) {
+    nav ul {
+        display: inline;
+    }
+    
+}
+/* Estilização para Desktop (telas maiores)   */
+@media screen and (min-width: 1080px) {
+    .caixa {
+        width: 940px;
+    }
 }

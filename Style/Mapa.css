@@ -13,3 +13,9 @@
     width: 940px;
     margin: 20px 100px -400px;
 }
+
+@media screen and (min-width: 1080px) {
+    .mapa-conteudo {
+        width: 940px;
+    }
+}
