@@ -1,36 +1,32 @@
-:root {
-    --cor-principal: #000000;
-    --cor-vermelho: #a10000;
-    --cor-preto: #000000;
-    --cor-azul: #006ecf;
-    --cor-bramca: #fff6ff;
-    --cor-roxa: #7d6df7;
-}
-
+/* Estilização para telas menores */
 header {
     background: #000000;
     padding: 20px 0;
 }
 
 .caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
-    padding: 0 20px;
-    display: flex;
-    align-items: center;
+      display: flex;
     justify-content: space-between;
+    align-items: center;
+    position: relative;
+    width: auto;
+    margin: 0 auto;
 }
 
 .logo {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    font-size: 35px;
+    font-size: 1.5em;
+    font-weight: bold;
 }
-.titulo-principal {
-    padding-left: 20px;
-    height: 15vw;
+
+.header-logo {
+    width: 90px;
+    margin-right: 10px;
+}
+
+#nome_empresa {
+    display: none;
 }
 
 .fundo-site {
@@ -41,9 +37,12 @@ header {
 }
 
 nav {
-    position: absolute;
     top: 110px;
     right: 0;
+}
+
+nav ul {
+        display: grid;
 }
 
 nav li {
