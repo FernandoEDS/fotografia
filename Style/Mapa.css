@@ -1,17 +1,19 @@
 .mapa {
     padding: 3em 0;
     background-color: linear-gradient(#FEFEFE, #888888);
-    margin: 250px;
 }
 
-.titulo-estabelecimento {
-    padding-left: 20px;
-    margin: -270px 20px 30px;
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
 }
 
 .mapa-conteudo {
-    width: 940px;
-    margin: 20px 100px -400px;
+    width: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 @media screen and (min-width: 1080px) {
