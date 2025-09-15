@@ -16,33 +16,32 @@
     border-radius: 10px;
 }
 
+.produtos li:hover {
+    border-color: var(--cor-principal);
+}
+
+.produtos li:active {
+    border-color: var(--cor-azulescuro);
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produtos li:hover h2 {
+    font-size: 34px;
+}
+
+.imagem-produto {
+    width: 250px;
+}
 .produto-descricao {
     font-size: 18px;
 }
 
-.foto {
-    width: 100px;
-}
-
-/* codigos gerais do site */
-
-head {
-    display: none;
-}
-
-meta {
-    display: none;
-}
-
-title {
-    display: none;
-}
-
-link {
-    display: none;
-}
-
-main {
-    display: block;
-    unicode-bidi: isolate;
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
 }

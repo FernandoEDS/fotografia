@@ -1,11 +1,15 @@
-p {
+.titulo-principal {
     text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    width: 100%;
 }
 
 .principal {
     padding: 3em 0;
-    background: var(--cor-bramca);
-    width: 940px;
+    background: var(--cor-azulclaro);
+    width: auto;
     margin: 0 auto;
 }
 
@@ -19,14 +23,6 @@ p {
 
 .principal em {
     font-style: italic;
-}
-
-#missao {
-    font-size: 20px;
-}
-
-.meio-site {
-    margin: -40px 50px 300px 70px;
 }
 
 .utensilios {
