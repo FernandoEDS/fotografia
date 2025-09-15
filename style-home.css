@@ -50,14 +50,13 @@ em strong {
 .titulo-beneficios {
     padding-left: 400px;
 	color: white;
-	margin: -220px 20px 30px;
+	margin: 150px 20px 30px;
 	width: 300px;
 }
 
 .beneficios ul {
 	display: inline-block;
 	vertical-align: top;
-	width: 20%;
 	margin-right: 15%;
 }
 
