@@ -45,3 +45,9 @@
     font-weight: bold;
     margin-top: 10px;
 }
+
+@media screen and (min-width: 1080px) {
+    .principal {
+        width: 940px;
+    }
+}
